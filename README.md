@@ -1,4 +1,5 @@
 # Lab6PittCMPNIF0010
 
-name = input("what is your name "); 
+Our code first asks the user your name.
+then verifies if the name is a string or not.
 
