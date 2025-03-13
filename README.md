@@ -1,5 +1,6 @@
 # Lab6PittCMPNIF0010
 
 Our code first asks the user your name.
-then verifies if the name is a string or not.
+Then it asks your age.
+Then in one line, it prints the users name and age that was inputed.
 
